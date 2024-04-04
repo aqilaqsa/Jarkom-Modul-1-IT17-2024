@@ -6,7 +6,7 @@
 ## Penyelesaian
 ### Malwleowleo
 
-<img src="Jarkom-Modul-1-IT17-2024/images/malw-1-a.png" alt="1">
+<img src="/images/malw-1-a.png" alt="1">
 
 ```c
 test
