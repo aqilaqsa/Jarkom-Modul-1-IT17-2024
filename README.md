@@ -101,7 +101,7 @@ a. Buka file pcap di wireshark, klik kanan TCP stream, follow, masukkan domain k
 b. Masukkan web server korban ke netcat.
 <img src="/images/evidence-5-c.png" alt="20" style="width: 800;">
 
-c. Melakukan filter POST menggunakan `http.request.command == "POST"` untuk menemukan endpoint yang digunakan untuk login sebagai user biasa.
+c. Melakukan filter `http.request.command == "POST"` untuk menemukan endpoint yang digunakan untuk login sebagai user biasa.
 <img src="/images/evidence-5-f.png" alt="21" style="width: 800;">
 
 d. Masukkan endpoint ke netcat
@@ -174,7 +174,7 @@ b. Masukkan jawaban ke netcat.
 
 ## Kendala keseluruhan pengerjaan
 1. VPN sering terdisconnect di tengah pengerjaan
-2. laptop issue wireshark sering force close *sad*
+2. laptop issue wireshark sering force close... <br>
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⣤⡶⠶⠿⠿⠶⢶⣤⣄⠀⠀⠀⠀⢀⣀⣠⣤⣤⣤⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣤⣾⠟⠉⠀⠀⠀⠀⠀⠀⠀⠈⠛⢿⣦⣶⠿⠛⠉⠉⠁⠀⠈⠙⠻⣦⡀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣰⡿⠋⠀⠀⠀⣀⣠⣤⣤⣤⣤⣤⣤⣀⡀⠹⣧⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢿⡄⠀⠀⠀⠀⠀⠀⠀
