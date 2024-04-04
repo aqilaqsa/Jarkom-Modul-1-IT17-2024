@@ -39,7 +39,7 @@ d. Memasukkan jawaban pada netcat
 
 ### 3 - secret
 
-``` Flag: JARKOM2024{Duk3_0f_4rak!s_LISAN AL GHAIB!_IJC8XznHl1VHCrY} ```
+``` Flag: JARKOM2024{10_Blm_tW_MIO_MIRZA?_9T8kv09HyzFHl4B} ```
 ``` Solved by: Mutiara Nurhaliza ```
 
 ### Pengerjaan
