@@ -5,7 +5,7 @@
 
 ### 1 - Malwleowleo
 
-```c Flag: JARKOM2024{beC4refUl_0f_m4lwAr3_cJw8XzAti6Jo88Y} ```
+``` Flag: JARKOM2024{beC4refUl_0f_m4lwAr3_cJw8XzAti6Jo88Y} ```
 
 ### Pengerjaan
 a. Buka file pcap di wireshark, lalu klik di TCP stream
