@@ -174,7 +174,7 @@ b. Masukkan jawaban ke netcat.
 
 ## Kendala keseluruhan pengerjaan
 1. VPN sering terdisconnect di tengah pengerjaan
-2. laptop issue wireshark sering force close... <br>
+2. laptop issue wireshark sering force close... <br><br>
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⣤⡶⠶⠿⠿⠶⢶⣤⣄⠀⠀⠀⠀⢀⣀⣠⣤⣤⣤⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣤⣾⠟⠉⠀⠀⠀⠀⠀⠀⠀⠈⠛⢿⣦⣶⠿⠛⠉⠉⠁⠀⠈⠙⠻⣦⡀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣰⡿⠋⠀⠀⠀⣀⣠⣤⣤⣤⣤⣤⣤⣀⡀⠹⣧⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢿⡄⠀⠀⠀⠀⠀⠀⠀
