@@ -5,7 +5,7 @@
 
 ### 1 - Malwleowleo
 
-``` Flag: JARKOM2024{beC4refUl_0f_m4lwAr3_cJw8XzAti6Jo88Y} ```
+``` Flag: JARKOM2024{beC4refUl_0f_m4lwAr3_cJw8XzAti6Jo88Y} ```<br>
 **Solved by: Mutiara Nurhaliza**
 
 ### Pengerjaan
@@ -20,7 +20,7 @@ c. Masukkan jawaban yang ditemukan ke dalam netcat
 
 ### 2 - whoami
 
-``` Flag: JARKOM2024{Duk3_0f_4rak!s_LISAN AL GHAIB!_IJC8XznHl1VHCrY} ```
+``` Flag: JARKOM2024{Duk3_0f_4rak!s_LISAN AL GHAIB!_IJC8XznHl1VHCrY} ```<br>
 **Solved by: Mutiara Nurhaliza**
 
 ### Pengerjaan
@@ -39,7 +39,7 @@ d. Memasukkan jawaban pada netcat
 
 ### 3 - secret
 
-``` Flag: JARKOM2024{10_Blm_tW_MIO_MIRZA?_9T8kv09HyzFHl4B} ```
+``` Flag: JARKOM2024{10_Blm_tW_MIO_MIRZA?_9T8kv09HyzFHl4B} ```<br>
 **Solved by: Mutiara Nurhaliza**
 
 ### Pengerjaan
