@@ -6,7 +6,7 @@
 ### 1 - Malwleowleo
 
 ``` Flag: JARKOM2024{beC4refUl_0f_m4lwAr3_cJw8XzAti6Jo88Y} ```
-``` Solved by: Mutiara Nurhaliza ```
+**Solved by: Mutiara Nurhaliza**
 
 ### Pengerjaan
 a. Buka file pcap di wireshark, lalu klik di TCP stream
@@ -21,7 +21,7 @@ c. Masukkan jawaban yang ditemukan ke dalam netcat
 ### 2 - whoami
 
 ``` Flag: JARKOM2024{Duk3_0f_4rak!s_LISAN AL GHAIB!_IJC8XznHl1VHCrY} ```
-``` Solved by: Mutiara Nurhaliza ```
+**Solved by: Mutiara Nurhaliza**
 
 ### Pengerjaan
 a. Buka file di wireshark, lalu klik TCP Stream
@@ -40,7 +40,7 @@ d. Memasukkan jawaban pada netcat
 ### 3 - secret
 
 ``` Flag: JARKOM2024{10_Blm_tW_MIO_MIRZA?_9T8kv09HyzFHl4B} ```
-``` Solved by: Mutiara Nurhaliza ```
+**Solved by: Mutiara Nurhaliza**
 
 ### Pengerjaan
 a. Buka file di wireshark, lalu klik Follow TCP Stream
