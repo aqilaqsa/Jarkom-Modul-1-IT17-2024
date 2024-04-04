@@ -6,7 +6,7 @@
 ## Penyelesaian
 ### Malwleowleo
 
-<img src="/images/malw-1-a.png" alt="1">
+<img src="/images/malw-1-a.png" alt="1" style="width: 300px;"">
 
 ```c
 test
