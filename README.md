@@ -9,13 +9,13 @@
 **Solved by: Mutiara Nurhaliza**
 
 ### Pengerjaan
-a. Buka file pcap di wireshark, lalu klik di TCP stream
+a. Buka file pcap di wireshark, lalu klik di TCP stream.
 <img src="/images/malw-1-a.png" alt="1" style="width: 800;">
 
-b. Lakukan screening untuk mencari string yang berisi nama **`malware`**
+b. Lakukan screening untuk mencari string yang berisi nama **`malware`**.
 <img src="/images/malw-1-b.png" alt="2" style="width: 800;">
 
-c. Masukkan jawaban yang ditemukan ke dalam netcat
+c. Masukkan jawaban yang ditemukan ke dalam netcat.
 <img src="/images/malw-1-c.png" alt="3" style="width: 800;">
 
 
@@ -26,16 +26,16 @@ c. Masukkan jawaban yang ditemukan ke dalam netcat
 **Solved by: Mutiara Nurhaliza**
 
 ### Pengerjaan
-a. Buka file di wireshark, lalu klik TCP Stream
+a. Buka file di wireshark, lalu klik TCP Stream.
 <img src="/images/whoami-2-a.png" alt="4" style="width: 800;">
 
-b. Melakukan screening untuk mencari string yang berisi nama orang, disini terdapat string yang mencurigakan 
+b. Melakukan screening untuk mencari string yang berisi nama orang, disini terdapat string yang mencurigakan.
 <img src="/images/whoami-2-b.png" alt="5" style="width: 800;">
 
-c. Decode string yang didapat menggunakan Base64
+c. Decode string yang didapat menggunakan Base64.
 <img src="/images/whoami-2-c.png" alt="6" style="width: 800;">
 
-d. Memasukkan jawaban pada netcat
+d. Memasukkan jawaban pada netcat.
 <img src="/images/whoami-2-d.png" alt="7" style="width: 800;">
 
 
@@ -52,10 +52,13 @@ a. Buka file di wireshark, lalu klik Follow TCP Stream.
 b. Melakukan screening untuk mencari user dan password, disini didapat bahwa usernya adalah h3ngk3rTzy dan password nya adalah S!l3ncE.
 <img src="/images/secret-3-b.png" alt="9" style="width: 800;">
 
-c. Menggunakan FileZilla dan memasukkan host, username, dan password yang telah ditemukan.
-<img src="/images/secret-3-c.png" alt="10" style="width: 800;">
+c. Melakukan export Object FTP-DATA untuk mendapatkan isi file.
+<img src="/images/secret-3-exportftp.png" alt="10" style="width: 800;">
 
-d. Mendownload mirza.jpg yang terdapat pada file h3ngk3rTzy.
+d. Save semua file yang ditemukan.
+<img src="/images/secret-3-savefile.png" alt="10" style="width: 800;">
+
+d. Mengecek kedua file, dan mencari apa pesan yang dikutip oleh attacker.
 <img src="/images/secret-3-d.png" alt="11" style="width: 800;">
 
 e. Memasukkan jawaban pada netcat.
@@ -126,7 +129,10 @@ e. Kembali ke filter POST, temukan email dan password yang sukses digunakan untu
 a. Buka file pcap di wireshark, filter `ftp` karena bahasan dari soal adalah FTP. Selanjutnya, connect ke netcat, pertanyaannya adalah password yang didapatkan hacker.
 <img src="/images/atm-6-b.png" alt="26" style="width: 800;">
 
-b. klik kanan pada stream dengan teks *Login Successful*, masukkan jawaban ke netcat.
+b. Terlihat bahwa di sini banyak attempt untuk bruteforce, lakukan filtering dengan `ftp.response.arg contains "successful"`
+<img src="/images/atm-6-revisi-abisb.png" alt="revision" style="width: 800;">
+
+c. Masukkan jawaban ke netcat.
 <img src="/images/atm-6-c.png" alt="27" style="width: 800;">
 
 
